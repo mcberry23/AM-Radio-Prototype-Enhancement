@@ -1,0 +1,2 @@
+# AM-Radio-Prototype-Enhancement
+The goal of the RF Systems Design Lab, ELEC 3030, at Auburn University is design, build, and test an AM radio.  Through the course many useful topics in electrical engineering are learned from the theory of how radios work to the application of using lab equipment to construct one.  The final project is enhance the initial prototype in which our group is developing printed circuit boards.
